@@ -1,0 +1,17 @@
+.bandera{
+  display: block;
+  height: 100px;
+  width: 20;
+}
+.amarillo{
+  background-color: yellow;
+  color: black;
+
+}
+.gris{
+  background-color: gray;
+  color: white;
+}
+#Texto-mayusculas{
+  text-transform:uppercase;
+}
